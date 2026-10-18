@@ -23,13 +23,13 @@ This project focuses on cleaning, transforming, and analyzing clinic appointment
 
 The original dataset contained inconsistent values that required cleaning and standardization before analysis.
 
-![Messy Dataset](messy.png)
+![Messy Dataset](messy.PNG)
 
 ## 2. Cleaned Dataset
 
 The dataset after cleaning, standardization, and transformation in Power Query.
 
-![Cleaned Dataset](cleaned.png)
+![Cleaned Dataset](cleaned.PNG)
 
 ## 3. Data Cleaning and Transformation
 
@@ -48,7 +48,7 @@ The following steps were performed using Power Query:
 
 After cleaning and transforming the data, an interactive dashboard was created in Microsoft Excel to present key performance indicators and analyze appointment and billing trends.
 
-![Clinic Appointment and Billing Dashboard](dashboard.png)
+![Clinic Appointment and Billing Dashboard](dashboard.PNG)
 
 ## 5. Key Findings from the Dashboard
 
