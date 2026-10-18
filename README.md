@@ -56,59 +56,59 @@ The following questions were explored using the dashboard. The findings will be 
 
 1. **Total Appointments:** How many appointments are recorded in the dataset?
 
-   **Finding:** __________
+   **Finding:** 1000.
 
 2. **Total Billing:** What is the total billing amount in USD?
 
-   **Finding:** __________
+   **Finding:** 218936.37.
 
 3. **Average Billing:** What is the average billing amount per appointment?
 
-   **Finding:** __________
+   **Finding:** 230.46.
 
 4. **Follow-up Rate:** What percentage of appointments require follow-up?
 
-   **Finding:** __________
+   **Finding:** 51.40%.
 
 5. **Average Lead Days:** What is the average number of days between booking and appointment?
 
-   **Finding:** __________
+   **Finding:** 274.56 days.
 
 6. **Department vs. Patients:** Which department handles the highest number of appointments?
 
-   **Finding:** __________
+   **Finding:** Neurology.
 
 7. **Department vs. Billing:** Which department generates the highest total billing?
 
-   **Finding:** __________
+   **Finding:** Neurology.
 
 8. **Gender Distribution:** What percentage of patients are male and female?
 
-   **Finding:** __________
+   **Finding:** Male - 47.30% and Female - 47.70%.
 
 9. **Age Range vs. Patients:** Which age group has the highest number of patients?
 
-   **Finding:** __________
+   **Finding:** 18-30.
 
 10. **Doctor Earnings:** Which doctor generates the highest total billing?
 
-    **Finding:** __________
+    **Finding:** Jennifer Adams.
 
 11. **Top Five Doctors:** Who are the five highest-earning doctors?
 
-    **Finding:** __________
+    **Finding:** Jennifer Adams, James Aguilar, Philip Davis, Matthew Morse, Christopher Hayes.
 
 12. **Age Range vs. Follow-up Rate:** Which age group has the highest follow-up rate?
 
-    **Finding:** __________
+    **Finding:** 18-30.
 
 13. **Yearly Comparison:** How do appointment volumes differ between 2025 and 2026?
 
-    **Finding:** __________
+    **Finding:** **Finding:** In 2025, there were 760 appointments, compared with 240 appointments in 2026. Appointment volume decreased by 520 appointments (68.42%) from 2025 to 2026.
 
 14. **Billing Comparison by Year:** How does total billing differ between 2025 and 2026?
 
-    **Finding:** __________
+    **Finding:** **Finding:** Total billing was $160,703.48 in 2025 and $58,232.89 in 2026. Total billing decreased by $102,470.59 (63.76%) from 2025 to 2026.
 
 ## 6. Dashboard Interactivity
 
@@ -129,6 +129,6 @@ This project demonstrates the process of transforming messy data into meaningful
 
 ## Author
 
-**Name:** [Your Name]
+**Name:** Baharul Islam
 
-**LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
+**LinkedIn:** [Add your LinkedIn profile URL](www.linkedin.com/in/baharul9096)
