@@ -131,4 +131,6 @@ This project demonstrates the process of transforming messy data into meaningful
 
 **Name:** Baharul Islam
 
-**LinkedIn:** [Add your LinkedIn profile URL](www.linkedin.com/in/baharul9096)
+**LinkedIn:** www.linkedin.com/in/baharul9096
+
+
